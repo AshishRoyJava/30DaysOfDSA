@@ -25,4 +25,11 @@ The problems are packaged day wise inside the Java project as well.
 11. Stock Buy and Sell 
 12. Rotate Matrix 
 
+### Day 3: (Maths)
+13. Excel Column Number
+14. Find x^n in logn time
+15. Count Trailing zeroes in factorial of a number
+16. Find GCD of a number
+17. Find number of unique paths in a grid.
+
 
